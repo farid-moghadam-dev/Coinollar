@@ -239,7 +239,7 @@ USD, EUR, AED, GBP, JPY, KWD, AUD, CAD, CNY, TRY, SAR, CHF, INR, PKR, IQD, SYP, 
 ```
 MIT License
 
-Copyright (c) 2025 Farid Moghaddam
+Copyright (c) 2025 Farid Sharif Moghadam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
