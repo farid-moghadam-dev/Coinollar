@@ -31,8 +31,38 @@ A modern Android application for real-time tracking of **cryptocurrency**, **fia
 
 ## Screenshots
 
-<!-- Add your screenshots here -->
-<!-- <img src="screenshots/splash.png" width="200"/> <img src="screenshots/home.png" width="200"/> <img src="screenshots/detail.png" width="200"/> -->
+<p align="center">
+  <img src="screenshots/splash.png" width="240" alt="Splash screen with Lottie animation"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/home.png" width="240" alt="Home screen with gold prices and header carousel"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/detail_btc.png" width="240" alt="Bitcoin detail screen"/>
+</p>
+
+<p align="center">
+  <em>Splash · Home · Detail</em>
+</p>
+
+<details>
+<summary><strong>More screens</strong></summary>
+
+<p align="center">
+  <img src="screenshots/home_crypto.png" width="220" alt="Cryptocurrencies list"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/home_currencies.png" width="220" alt="Fiat currencies list"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/shimmer_loading.png" width="220" alt="Shimmer loading state"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/detail_gold.png" width="220" alt="Gold detail screen"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/detail_usd.png" width="220" alt="USD detail screen"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/connection_error.png" width="220" alt="Connection error state"/>
+</p>
+
+</details>
 
 ## Architecture
 
